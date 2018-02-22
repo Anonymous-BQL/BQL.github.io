@@ -4,6 +4,4 @@
 ## Java
 ### Java se
 ### Spring
-[home](wiki.md)
-
-[Spring mvc](Spring.md)
+[Spring mvc](Java/Spring/mvc.md)
